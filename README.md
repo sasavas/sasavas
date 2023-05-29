@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi 👋, I am Savas
 
-I am Savas. I enjoy writing software and learning languages & cultures.
+I am a full-stack developer who is fluent in C# and JavaScript/TypeScript with previous experience with Java and Dart.
 
-I am fluent in C# and Javascript and have previous experience with Java and Dart.
+📍Currently based in Eskisehir, Turkey.
 
-In my current position, I work on a DCIM project.
+### Connect with me:
+
+[![savasusame](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/savasusame) [![usame-savas](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/usame-savas) [![@savasusame](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@savasusame)
+
+### Languages and Tools:
+
+ [![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com)[![csharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) ](https://www.w3schools.com/cs/)[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ](https://www.w3schools.com/css/)[![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) ](https://dart.dev)[![dotnet](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg) ](https://dotnet.microsoft.com/)[![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) ](https://expressjs.com)[![figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) ](https://www.figma.com/)[![flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) ](https://flutter.dev)[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/)[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/)[![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ](https://www.java.com)[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![mssql](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg) ](https://www.microsoft.com/en-us/sql-server)[![nextjs](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) ](https://nextjs.org/)[![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ](https://postman.com)[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ](https://reactjs.org/)[![redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) ](https://redux.js.org)[![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg) ](https://www.sqlite.org/)[![tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ](https://tailwindcss.com/)[![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
