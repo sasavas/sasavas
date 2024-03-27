@@ -1,4 +1,4 @@
-### Hi 👋, I am Savas
+### Hi 👋, I am Alp.
 
 I am a full-stack developer who is fluent in C# and JavaScript/TypeScript with previous experience with Java and Dart.
 
