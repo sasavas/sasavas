@@ -1,29 +1,27 @@
 ### Hi 👋, I am Alp.
 
-I am a full-stack developer who is fluent in C# and JavaScript/TypeScript with previous experience with Java and Dart.
+I am a full-stack developer fluent in .NET Core ecosystem. I have an extensive high-performance, scalable, multi-threaded app development.
+Although I have most of my professional experience with .NET, I am confident in my front-end abilities having developed applications with React an Angular frameworks. Lastly, I worked on some mobile projects with Flutter and Java (native Android development).
 
-📍Currently based in Eskisehir, Turkey.
-
-### Connect with me:
-
-[github](https://github.com/usavas)
-
-[linkedin](https://www.linkedin.com/in/usame-savas/)
-
+📍Currently living in Eskisehir, Turkey.
 
 ### Languages and Tools:
 
+- .NET Core
 - C#
 - MSSQL
-- Dotnet
 - gRPC
 - JavaScript
 - TypeScript
 - React
 - Next
+- Angular
 - Java
-- Dart
 - Flutter
-- Dotnet
-- Git
-- Jira
+
+
+### Connect with me:
+
+[github](https://github.com/sasavas)
+
+[linkedin](https://www.linkedin.com/in/alpsavas/)
